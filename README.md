@@ -1,4 +1,4 @@
-# Excel Automation Program
+# Excel Automation Program(demo)
 
 이 프로젝트는 엑셀 파일을 자동으로 조작하기 위한 간단한 Python 프로그램입니다.
 
