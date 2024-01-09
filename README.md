@@ -31,7 +31,7 @@
 3. 스크립트를 실행합니다:
 
    ```bash
-   your_script_name.exe
+   excel.exe
    ```
 
 ## 설정 파일
