@@ -174,3 +174,13 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+### Node ###
+node_modules/
+npm-debug.log*
+.npm
+
+### Project ###
+# 생성된 엑셀 파일은 커밋하지 않음 (폴더는 유지)
+data/*
+!data/.gitkeep
+~$*.xlsx

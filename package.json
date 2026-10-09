@@ -1,0 +1,18 @@
+{
+  "name": "excel-automation",
+  "version": "0.1.0",
+  "description": "Node.js + Python 엑셀 읽기/쓰기 자동화 프로그램",
+  "main": "server/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "setup:py": "python -m venv .venv && .venv\\Scripts\\pip install -r python/requirements.txt"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
